@@ -1,0 +1,17 @@
+{
+  "name": "@8columns/touch",
+  "description": "Touch CLI for Windows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Mr.Manit Treeprapankit",
+  "license": "MIT",
+  "bin": {
+    "touch":"index.js"
+  },
+  "dependencies": {
+  }
+}
