@@ -2,6 +2,26 @@
 
 Touch CLI for Windows (use for create blank files).
 
+### Installation
+
+```bash
+npm install -g manit-tree/touch
+```
+
+### Usage
+
+1. create single file
+   
+```bash
+touch index.html
+```
+
+2. create multiple files
+
+```bash
+touch index.html style.css app.js
+```
+
 ### index.js
 
 ```js
